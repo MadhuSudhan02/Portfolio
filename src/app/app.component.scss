@@ -140,6 +140,9 @@ nav {
     .align-con{
       align-items: center;
     }
+    .padd{
+      padding-left: 20px;
+    }
   }
   
   @media screen and (min-width: 481px) and (max-width: 768px) {
@@ -178,6 +181,9 @@ nav {
     }
     .align-con{
       align-items: center;
+    }
+    .padd{
+      padding-left: 20px;
     }
   }
   
